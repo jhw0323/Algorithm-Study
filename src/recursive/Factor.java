@@ -10,7 +10,7 @@ public class Factor {
 	//소인수 분해
 	public static void factor (int n ){
 		
-		int i = 2;	//소수는 2부터
+		int i = 2;	//소수는 체크 변수
 		
 
 		//System.out.println("n::"+n);
