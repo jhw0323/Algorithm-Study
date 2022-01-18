@@ -94,7 +94,7 @@ public class MovingRabit {
         		ArrayList<Integer> jb7 = (ArrayList<Integer>) visitedList.get(now).clone();
         		jb7.add(jump_back_7);
         		visitedList.put(jump_back_7 , jb7);
-        		
+        		  
         		visitedQ.add(cnt+1);
         	}
         	
