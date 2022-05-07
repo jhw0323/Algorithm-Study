@@ -12,11 +12,6 @@ public class Quiz07 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		/*
-		int startDate = 19641010;
-		int endDate = 20200724;
-		*/
-		
 		int year = 0;
 		int month = 0;
 		int date = 0;
